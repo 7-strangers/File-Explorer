@@ -2,7 +2,7 @@
 新一代文件资源管理器。A new generation of File Explorer.
 
 <p align="center">
-  <img alt="Files hero image" src="https://files-community/Files/assets/ReadmeHero.png" />
+  <img alt="Files hero image" src="https://github.com/files-community/Files/blob/main/.github/assets/ReadmeHero.png" />
 </p>
 
 <p align="center">
